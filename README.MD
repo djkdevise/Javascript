@@ -4,7 +4,8 @@
 **Características clave:**
 
 * **Interpretado:** No se compila a código máquina antes de la ejecución.
-* **Sin punto y coma:** Se utiliza al final de línea para indicar el final de una instrucción.
+* **Sin punto y coma:** En JavaScript, el punto y coma; es decir, el carácter ;, se utiliza para delimitar claramente partes del código de otras partes del código
+
 * **Tipado dinámico:** El tipo de dato de una variable se determina en tiempo de ejecución.
 * **Orientado a objetos:** Todo es un objeto, lo que lo hace un lenguaje flexible.
 * **Productivo:** Ahorra tiempo de desarrollo gracias a su sintaxis concisa.
@@ -29,6 +30,19 @@ bre
 
 **Si estás buscando un lenguaje de programación que sea fácil de aprender, potente y flexible, JavaScript es una excelente opción.**
 
+**Comentarios:**
+* **Linea**  // este es un comentario.
+* **Bloque** /*
+        este 
+        es 
+        un 
+        comentario 
+        de 
+        varias 
+        líneas 
+        */
+
+* **Varias lineas en una:** /*este es un comentario de varias líneas en una sola línea */
 
 **Variables:**
 * **Tipado:** Dinamico no se necesita declarar el tipo de dato de la variable. Ej: nombre_variable= "Hola"
