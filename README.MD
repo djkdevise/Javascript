@@ -3,7 +3,7 @@
 
 **Características clave:**
 
-* **Interpretado:** No se compila a código máquina antes de la ejecución.
+* **Interpretado:** Se compila a código máquina antes de la ejecución.
 * **Sin punto y coma:** En JavaScript, el punto y coma; es decir, el carácter ;, se utiliza para delimitar claramente partes del código de otras partes del código
 
 * **Tipado dinámico:** El tipo de dato de una variable se determina en tiempo de ejecución.
